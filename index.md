@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Page for FabLab course progress
 
 You can use the [editor on GitHub](https://github.com/ameenkb/ameenkb.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
