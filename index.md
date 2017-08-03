@@ -7,7 +7,7 @@ Myself Ameen.K.B from Thrissur, Kerala. I'm pursuing my 4th year of B.Tech in th
 
 Follow me on my social networks:
 
-[[Facebook](https://facebook.com/ameintruztmi)]  [[Instagram](https://www.instagram.com/ameintruztmi)]  [[Twitter](https://twitter.com/AmeinTruztme)] [Youtube](https://www.youtube.com/channel/UCh27FNyx4hxOgZCwAtZgn8g?view_as=subscriber)]
+[[Facebook](https://facebook.com/ameintruztmi)]  [[Instagram](https://www.instagram.com/ameintruztmi)]  [[Twitter](https://twitter.com/AmeinTruztme)] [[Youtube](https://www.youtube.com/channel/UCh27FNyx4hxOgZCwAtZgn8g?view_as=subscriber)]
 
 You can use the [editor on GitHub](https://github.com/ameenkb/ameenkb.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
