@@ -11,3 +11,4 @@ Follow me on my social networks:
 
 More updates will be added soon. Stay in touch.
 Okay?
+Understood?
