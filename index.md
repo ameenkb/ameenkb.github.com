@@ -28,7 +28,9 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   - Create a GitHub Page
   
   All assignments were completed on time.
-  * Day 2: Getting into GitHub and Introduction to 3D Printing
+  `03-08-2017`
+  
+  Day 2: Getting into GitHub and Introduction to 3D Printing
   
   The secon
 
