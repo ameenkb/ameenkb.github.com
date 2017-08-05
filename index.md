@@ -1,5 +1,17 @@
 # AMEEN.K.B
 
+<main class="bd-masthead" id="content" role="main">
+  <div class="container">
+    {% include icons/bootstrap.svg class="mb-3" width="128" height="128" %}
+    <p class="lead">Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.</p>
+    <p class="lead">
+      <a href="{{ site.baseurl }}/getting-started/download/" class="btn btn-lg btn-bd-yellow" onclick="ga('send', 'event', 'Jumbotron actions', 'Download', 'Download {{ site.current_version }}');">Download Bootstrap</a>
+    </p>
+    <p class="version">Currently v{{ site.current_version }}</p>
+    {% include ads.html %}
+  </div>
+</main>
+
 ## ABOUT ME
 Hi visiters,
 
