@@ -1,6 +1,4 @@
 ## ABOUT ME
-Hi visiters,
-
 Myself Ameen.K.B from Thrissur, Kerala. I'm pursuing my 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram.
 
 ### FOLLOW ME
