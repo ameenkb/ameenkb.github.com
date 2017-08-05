@@ -1,5 +1,8 @@
 ## ABOUT ME
-Myself Ameen.K.B from Thrissur, Kerala. I'm pursuing my 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram.
+A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology :wink:.
+
+As Dean Kamen said, 
+> Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://facebook.com/ameintruztmi)
