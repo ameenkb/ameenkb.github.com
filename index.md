@@ -13,7 +13,7 @@ So it's always our upon us to make changes in this world. Be that change.
 A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication. A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production. It was created by an American professor at MIT, [Neil Gershenfield](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
 
 * Course Progress
-  * Day 1: An Introduction
+  * `02-08-2017` Day 1: An Introduction
   
   The course is conducted by the FabLab section of MESCE and was commenced on 2nd August 2017 Wednesday. The course is lead by Mr. Jaseel, an ambitious man , who descriptively explained about the scopes of FabLab, CNC, and 3D Printing. By the end, simple assignments were given to the students.
   
@@ -25,7 +25,9 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   - [x] Create a GitHub Page
   
   All assignments were completed on time.
-  * Day 2: Getting into GitHub
+  * Day 2: Getting into GitHub and Introduction to 3D Printing
+  
+  The secon
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://facebook.com/ameintruztmi)
