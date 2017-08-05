@@ -28,11 +28,22 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   - Create a GitHub Page
   
   All assignments were completed on time.
+  
   `03-08-2017`
   
   Day 2: Getting into GitHub and Introduction to 3D Printing
   
-  The secon
+  The second day of the course was about getting along with GitHub and detailed page developement process. After the session, the class was split into two groups, after which we learnt in detail about 3D Printing. Both the mechanical and designing sides of 3D Printing was explained in detail by the supporting staff. 
+  
+  Daily Asssignments:
+  - Develope a desccriptive page in GitHub
+  - Upload the daily progress on the class
+  
+  All assignments were completed on time.
+  
+* Gallery
+
+
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://facebook.com/ameintruztmi)
@@ -43,10 +54,9 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
 ### CONTACT DETAILS
 #### AMEEN K B
 
-![GooglePlus](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/google-32.png) ameenkbasheer@gmail.com
+![GooglePlus](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/google-24.png) ameenkbasheer@gmail.com
 
-![WhatsApp](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Whats_App-32.png) +91 9539294450
+![WhatsApp](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Whats_App-24.png) +91 9539294450
 
 More updates will be added soon. Stay in touch.
 Okay?
-Understood?
