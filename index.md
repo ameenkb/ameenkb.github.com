@@ -55,7 +55,7 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   
   All assignments were completed on time.
   
-#### Gallery
+#### GALLERY
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://facebook.com/ameintruztmi)
