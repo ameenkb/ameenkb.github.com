@@ -1,8 +1,13 @@
 ## ABOUT ME
-A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology :wink:.
+A young man `<addr>` from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology :wink:.
 
-As Dean Kamen said, 
-> Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
+As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) said, 
+> Every once in a while, a new technology, an old problem, and a big idea turn into an innovation
+
+So it's always our upon us to make changes in this world. Be that change. 
+
+### RECENT WORKS
+
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://facebook.com/ameintruztmi)
@@ -10,7 +15,7 @@ As Dean Kamen said,
 [![Twitter](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Twitter-64.png)](https://twitter.com/AmeinTruztme)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/youtube-64.png)](https://www.youtube.com/channel/UCh27FNyx4hxOgZCwAtZgn8g?view_as=subscriber)
 
-### CONTACT
+### CONTACT DETAILS
 **AMEEN K B**
 
 ![GooglePlus](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/google-32.png) ameenkbasheer@gmail.com
