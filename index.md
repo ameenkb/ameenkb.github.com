@@ -1,4 +1,14 @@
-## ABOUT ME
+## CONTENTS
+
+- [**ABOUT ME**](https://ameenkb.github.io/about-me)
+
+- [**RECENT WORKS**](https://ameenkb.github.io/recent-works)
+
+- [**FOLLOW ME**](https://ameenkb.github.io/follow-me)
+
+- [**CONTACT DETAILS**](https://ameenkb.github.io/contact-details)
+
+### ABOUT ME
 A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
 
 As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) said, 
