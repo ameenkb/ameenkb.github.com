@@ -1,5 +1,6 @@
 ## Welcome to my official GitHub Page!
 
+![test](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 ### CONTENTS
 
 - [**ABOUT ME**](https://ameenkb.github.io/#about-me)
