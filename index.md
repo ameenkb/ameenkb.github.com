@@ -14,6 +14,8 @@
 
 [![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
 
+[![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/trends-24.png)  **COURSE PROGRESS**](https://ameenkb.github.io/#course-progress)
+
 [![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/polaroidcamera-24.png)  **GALLERY**](https://ameenkb.github.io/#gallery)
 
 [![Follow Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/shoeprints-24.png)  **FOLLOW ME**](https://ameenkb.github.io/#follow-me)
@@ -40,7 +42,7 @@ So it's always our upon us to make changes in this world. Be that change.
 
 ## RECENT WORKS
 #### FABLAB COURSE
-* **An Introduction to FabLab and 3D Printing**
+* **Introduction to FabLab**
 
 A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication. A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production. It was created by an American professor at MIT, [Neil Gershenfield](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
 
@@ -52,6 +54,8 @@ The fab lab movement is closely aligned with the DIY, the open source hardware a
 
 ![3DP](http://linkemprint.ch/img/service_bg.png)
 
+* **Introduction to 3D Printing**
+
 3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
 
 The term "3D printing" originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
@@ -60,7 +64,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-* **COURSE PROGRESS**
+### COURSE PROGRESS
   
   `02-08-2017`
   
