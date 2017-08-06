@@ -8,17 +8,17 @@
 
 ## CONTENTS
 
-[![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png) **ABOUT ME**](https://ameenkb.github.io/#about-me)
+[![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](https://ameenkb.github.io/#about-me)
 
-[![Recent Works](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/calendar-24.png) **RECENT WORKS**](https://ameenkb.github.io/#recent-works)
+[![Recent Works](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/calendar-24.png)  **RECENT WORKS**](https://ameenkb.github.io/#recent-works)
 
-[![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)**FBLAB COURSE**](https://ameenkb.github.io/#fablab-course)
+[![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
 
-[![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/polaroidcamera-24.png) **GALLERY**](https://ameenkb.github.io/#gallery)
+[![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/polaroidcamera-24.png)  **GALLERY**](https://ameenkb.github.io/#gallery)
 
-[![Follow Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/shoeprints-24.png) **FOLLOW ME**](https://ameenkb.github.io/#follow-me)
+[![Follow Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/shoeprints-24.png)  **FOLLOW ME**](https://ameenkb.github.io/#follow-me)
 
-[![Contact Details](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/phone-24.png) **CONTACT DETAILS**](https://ameenkb.github.io/#contact-details)
+[![Contact Details](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/phone-24.png)  **CONTACT DETAILS**](https://ameenkb.github.io/#contact-details)
 
 ![Transparent](http://cozcyt.gob.mx/labsol/page/img/index/vector.png)
 
