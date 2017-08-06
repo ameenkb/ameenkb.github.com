@@ -58,6 +58,8 @@ The term "3D printing" originally referred to a process that deposits a binder m
 
 ![3DP Furniture](https://www.tr3sdland.com/wp-content/uploads/2014/11/cube2.png)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 * **COURSE PROGRESS**
   
   `02-08-2017`
