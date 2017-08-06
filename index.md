@@ -10,6 +10,8 @@
 [![Follow Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/shoeprints-128.png)](https://ameenkb.github.io/#follow-me)
 [![Contact Details](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/phone-128.png)](https://ameenkb.github.io/#contact-details)
 
+![Transparent](https://www.transparenttextures.com/patterns/asfalt-light.png)
+
 ## ABOUT ME
 A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
 
