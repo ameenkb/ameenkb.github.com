@@ -21,6 +21,8 @@ As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) s
 
 So it's always our upon us to make changes in this world. Be that change. 
 
+![Picture 2](http://northamerica.mslgroup.com/network/wp-content/uploads/2013/10/Executive-Decisions2.png)
+
 [![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-24.png)![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-24.png)](https://ameenkb.github.io/#contents)
 
 ## RECENT WORKS
