@@ -7,7 +7,6 @@
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## CONTENTS
-![Line](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Line.png)
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-128.png)](https://ameenkb.github.io/#about-me)
 [![Recent Works](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/calendar-128.png)](https://ameenkb.github.io/#recent-works)
