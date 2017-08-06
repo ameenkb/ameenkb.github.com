@@ -1,6 +1,7 @@
 ## Welcome to my official GitHub Page!
 
-![test](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+![test](http://thinkfcm.com/lines.png)
+
 ## CONTENTS
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-128.png)](https://ameenkb.github.io/#about-me)
