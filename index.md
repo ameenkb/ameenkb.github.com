@@ -31,7 +31,7 @@ So it's always our upon us to make changes in this world. Be that change.
 
 A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication. A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production. It was created by an American professor at MIT, [Neil Gershenfield](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
 
-![3DP](http://northamerica.mslgroup.com/network/wp-content/uploads/2013/10/Executive-Decisions2.png)
+![3DP](https://www.lesimprimantes3d.fr/wp-content/uploads/2013/10/3d-systems-cube-printer.png)
 
 * **Course Progress**
   
