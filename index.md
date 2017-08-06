@@ -14,7 +14,7 @@
 
 [![Recent Works](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/calendar-24.png)  **RECENT WORKS**](https://ameenkb.github.io/#recent-works)
 
-[![Mini Project](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/lightbulb-24.png)  **MINI PROJECT**]((https://ameenkb.github.io/#mini-project)
+[![Mini Project](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/lightbulb-24.png)  **MINI PROJECT**](https://ameenkb.github.io/#mini-project)
 
 [![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
 
