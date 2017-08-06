@@ -59,9 +59,17 @@ So it's always our upon us to make changes in this world. Be that change.
   
 - **SKILLS**
   - Arduino Programming (1 year)
+  
+  Basic programming and technical knowledge
   - C programming (2 years)
+  
+  High level programming and coding
   - Python programming (1 year)
+  
+  Basic knowledge and simple programming
   - Internet of Things (2 years)
+  
+  Basics and design of IoT
   
 - **AWARDS**
   - Best Performer Award (April 2017)
@@ -202,5 +210,6 @@ A CNC LASER CUTTING MACHINE IN ACTION
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 More updates will be added soon. Stay in touch.
-Okay?
