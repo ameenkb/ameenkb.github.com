@@ -2,6 +2,8 @@
 
 ![test](http://www.pngmart.com/files/4/Technology-PNG-Image.png)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 ## CONTENTS
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-128.png)](https://ameenkb.github.io/#about-me)
@@ -24,6 +26,8 @@ So it's always our upon us to make changes in this world. Be that change.
 ![Picture 2](http://northamerica.mslgroup.com/network/wp-content/uploads/2013/10/Executive-Decisions2.png)
 
 [![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-24.png)![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-24.png)](https://ameenkb.github.io/#contents)
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## RECENT WORKS
 #### FABLAB COURSE
@@ -76,6 +80,8 @@ The term "3D printing" originally referred to a process that deposits a binder m
   
  [![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-24.png)![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-24.png)](https://ameenkb.github.io/#contents)
   
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
 ### GALLERY
 
 - **THE CLASS**
@@ -112,12 +118,15 @@ A CNC LASER CUTTING MACHINE IN ACTION
 
 [![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-24.png)![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-24.png)](https://ameenkb.github.io/#contents)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://www.facebook.com/amein.truztme)
 [![Instagram](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Instagram-64.png)](https://www.instagram.com/ameintruztmi)
 [![Twitter](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Twitter-64.png)](https://twitter.com/AmeinTruztme)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/youtube-64.png)](https://www.youtube.com/channel/UCh27FNyx4hxOgZCwAtZgn8g?view_as=subscriber)
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ### CONTACT DETAILS
 
