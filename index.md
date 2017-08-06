@@ -14,7 +14,7 @@
 
 - [**CONTACT DETAILS**](https://ameenkb.github.io/#contact-details)
 
-### ABOUT ME
+## ABOUT ME
 A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
 
 As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) said, 
@@ -22,7 +22,9 @@ As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) s
 
 So it's always our upon us to make changes in this world. Be that change. 
 
-### RECENT WORKS
+[*^Back to contents^*](https://ameenkb.github.io/#contents)
+
+## RECENT WORKS
 #### FABLAB COURSE
 * **An Introduction to FabLab**
 
@@ -57,7 +59,9 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   
   All assignments were completed on time.
   
-#### GALLERY
+  [*^Back to contents^*](https://ameenkb.github.io/#contents)
+  
+### GALLERY
 
 - **THE CLASS**
 
@@ -91,14 +95,17 @@ A FINISHED 3D PRINTED SCULPTURE
 >![CNC 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Laser%20Cutter%2001.jpg)
 A CNC LASER CUTTING MACHINE IN ACTION
 
-### FOLLOW ME
+[*^Back to contents^*](https://ameenkb.github.io/#contents)
+
+## FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://www.facebook.com/amein.truztme)
 [![Instagram](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Instagram-64.png)](https://www.instagram.com/ameintruztmi)
 [![Twitter](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Twitter-64.png)](https://twitter.com/AmeinTruztme)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/youtube-64.png)](https://www.youtube.com/channel/UCh27FNyx4hxOgZCwAtZgn8g?view_as=subscriber)
 
 ### CONTACT DETAILS
-#### AMEEN K B
+
+**AMEEN K B**
 
 ![GooglePlus](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/google-24.png) ameenkbasheer@gmail.com
 
