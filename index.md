@@ -1,4 +1,6 @@
-## CONTENTS
+## Welcome to my official GitHub Page!
+
+### CONTENTS
 
 - [**ABOUT ME**](https://ameenkb.github.io/#about-me)
 
