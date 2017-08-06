@@ -27,11 +27,23 @@ So it's always our upon us to make changes in this world. Be that change.
 
 ## RECENT WORKS
 #### FABLAB COURSE
-* **An Introduction to FabLab**
+* **An Introduction to FabLab and 3D Printing**
 
 A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication. A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production. It was created by an American professor at MIT, [Neil Gershenfield](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
 
 ![3DP](https://www.lesimprimantes3d.fr/wp-content/uploads/2013/10/3d-systems-cube-printer.png)
+
+While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production.
+
+The fab lab movement is closely aligned with the DIY, the open source hardware and the free and open source movement, and shares philosophy as well as technology with them.
+
+![3DP](http://linkemprint.ch/img/service_bg.png)
+
+3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
+
+The term "3D printing" originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
+
+![3DP Furniture](https://assets.pinshape.com/uploads/image/file/119066/container_hg3d-household-bundle-pack-28mm-3d-printing-119066.png)
 
 * **Course Progress**
   
