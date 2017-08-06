@@ -59,7 +59,7 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   
 #### GALLERY
 
-![Class 1](https://github.com/ameenkb/ameenkb.github.io/blob/master/Images/Lecture%2001.jpg)
+![Class 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2001.jpg)
 ![Class 2](https://github.com/ameenkb/ameenkb.github.io/blob/master/Images/Class%2001.jpg)
 
 
