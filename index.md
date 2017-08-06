@@ -10,6 +10,8 @@
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](https://ameenkb.github.io/#about-me)
 
+[![Abstract](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/document-24.png)  **ABSTRACT**](https://ameenkb.github.io/#academical-abstract)
+
 [![Recent Works](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/calendar-24.png)  **RECENT WORKS**](https://ameenkb.github.io/#recent-works)
 
 [![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
@@ -38,6 +40,54 @@ So it's always our upon us to make changes in this world. Be that change.
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+### ACADEMICAL ABSTRACT
+- **EDUCATIONAL QUALIFICATION**
+  - B. Tech in EEE from MESCE, Kuttipuram
+  
+  Calicut Univesity
+  (CGPA: 7.13)
+  - XIIth from IES Public School, Chittilappilly
+  
+  CBSE Syllabus
+  (CGPA: 90.2)
+  - Xth from Hira English School, Kaipamangalam
+  
+  CBSE Syllabus
+  (CGPA: 9.6)
+  
+- **SKILLS**
+  - Arduino Programming (1 year)
+  - C programming (2 years)
+  - Python programming (1 year)
+  - Internet of Things (2 years)
+  
+- **AWARDS**
+  - Best Performer Award (April 2017)
+  
+  Best Performer Award was awarded by Vertical Eye Training Foundation during their life skill training program
+  - National Robotic Championship (October 2015)
+  
+  First place in zonal round of National Robotic Championship, India conducted by Robokart.com
+  - National Robotic Championship (April 2016)
+  
+  Finalist in NRC at IIT, Mumbai conducted by ARK Technosolutions Pvt Ltd, Mumbai and Robokart.com
+  
+- **CERTIFICATIONS/LICENSES**
+  - Industrial Training
+  
+  Successfully completed industrial training from Transformers and Electricals Kerala, Angamaly
+  - INNOSURF
+  
+  Successfully completed sessions of INNOSURF, a two day workshop on Python held at MESCE, Kuttippuram
+  - IoT Workshop by NRC India
+  
+  Successfully completed sessions of IoT workshop at official zonal centre, at NIT Calicut by Robokart.com
+  - Training Program
+  
+  Successfully completed sessions of skill developement training course conducted by Vertical Eye at MESCE, Kuttippuram
+  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## RECENT WORKS
