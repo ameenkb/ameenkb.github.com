@@ -43,7 +43,7 @@ The fab lab movement is closely aligned with the DIY, the open source hardware a
 
 The term "3D printing" originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
 
-![3DP Furniture](https://assets.pinshape.com/uploads/image/file/119066/container_hg3d-household-bundle-pack-28mm-3d-printing-119066.png)
+![3DP Furniture](https://keddr.com/wp-content/uploads/2015/12/3d-printer-topics-objects.png)
 
 * **Course Progress**
   
