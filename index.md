@@ -78,7 +78,6 @@ THE ULTIMAKER 3D PRINTER
 CONTROL PANEL OF THE 3D PRINTER
 
 > ![3DP 4](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printing%2001.jpg)
-> ![3DP 5](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printing%2002.jpg)
 3D PRINTER IN ACTION
 
 > ![3DP 6](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Designing%2001.jpg)
