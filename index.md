@@ -59,9 +59,38 @@ A *FabLab* or *fab lab* (fabrication laboratory) is a small-scale workshop offer
   
 #### GALLERY
 
-![Class 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2001.jpg)
-![Class 2](https://github.com/ameenkb/ameenkb.github.io/blob/master/Images/Class%2001.jpg)
+- **THE CLASS**
 
+>![Class 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2001.jpg)
+>![Class 2](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2003.jpg)
+THE CLASSROOM/FABLAB
+
+> ![Class 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Lecture%2001.jpg)
+CLASS LEAD BY MR. JASEEL
+
+- **3D PRINTER**
+
+> ![3DP 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2004.jpg)
+> ![3DP 2](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2001.jpg)
+THE ULTIMAKER 3D PRINTER
+
+> ![3DP 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2003.jpg)
+CONTROL PANEL OF THE 3D PRINTER
+
+> ![3DP 4](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printing%2001.jpg)
+> ![3DP 5](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printing%2002.jpg)
+3D PRINTER IN ACTION
+
+> ![3DP 6](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Designing%2001.jpg)
+3D PRINTER DESIGNER PANEL
+
+> ![3DP 7](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Sculpture%2001.jpg)
+A FINISHED 3D PRINTED SCULPTURE
+
+- **CNC MACHINES**
+
+>![CNC 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Laser%20Cutter%2001.jpg)
+A CNC LASER CUTTING MACHINE IN ACTION
 
 ### FOLLOW ME
 [![Facebook](https://cdn1.iconfinder.com/data/icons/lumin-social-media-icons/512/Facebook-64.png)](https://www.facebook.com/amein.truztme)
