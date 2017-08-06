@@ -174,7 +174,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
   
   Day 1: An Introduction
   
-  The course is conducted by the FabLab section of MESCE and was commenced on 2nd August 2017 Wednesday. The course is lead by Mr. Jaseel, an ambitious man , who descriptively explained about the scopes of FabLab, CNC, and 3D Printing. By the end, simple assignments were given to the students.
+  The course is conducted by the FabLab section of MESCE and was commenced on 2nd August 2017 Wednesday. The course is lead by Mr. Muhammed Jaseel, an ambitious man , who descriptively explained about the scopes of FabLab, CNC, and 3D Printing. By the end, simple assignments were given to the students.
   
   Daily Assignments:
   - Create an account in Thingiverse
@@ -300,7 +300,7 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 THE CLASSROOM/FABLAB
 
 > ![Class 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Lecture%2001.jpg)
-CLASS LEAD BY MR. JASEEL
+CLASS LEAD BY MR. MUHAMMED JASEEL
 
 - **3D PRINTER**
 
