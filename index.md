@@ -34,7 +34,7 @@ So it's always our upon us to make changes in this world. Be that change.
 
 ![Picture 2](http://northamerica.mslgroup.com/network/wp-content/uploads/2013/10/Executive-Decisions2.png)
 
-[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) **BACK TO TOP** ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
+[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) BACK TO TOP ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -87,7 +87,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
   
   All assignments were completed on time.
   
-[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) **BACK TO TOP** ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
+[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) BACK TO TOP ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
   
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
@@ -125,7 +125,7 @@ A FINISHED 3D PRINTED SCULPTURE
 >![CNC 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Laser%20Cutter%2001.jpg)
 A CNC LASER CUTTING MACHINE IN ACTION
 
-[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) **BACK TO TOP** ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
+[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) BACK TO TOP ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -145,7 +145,7 @@ A CNC LASER CUTTING MACHINE IN ACTION
 
 ![WhatsApp](https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Whats_App-24.png) +91 9539294450
 
-[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) **BACK TO TOP** ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
+[![Back](https://cdn4.iconfinder.com/data/icons/mayssam/512/menu-16.png) BACK TO TOP ![Arrow](https://cdn4.iconfinder.com/data/icons/mayssam/512/arrow_top-16.png)](https://ameenkb.github.io/#contents)
 
 More updates will be added soon. Stay in touch.
 Okay?
