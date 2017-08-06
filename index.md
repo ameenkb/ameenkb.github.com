@@ -1,6 +1,6 @@
 ## Welcome to my official GitHub Page!
 
-![test](http://thinkfcm.com/lines.png)
+![test](http://www.pngmart.com/files/4/Technology-PNG-Image.png)
 
 ## CONTENTS
 
