@@ -103,6 +103,9 @@ So it's always our upon us to make changes in this world. Be that change.
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## RECENT WORKS
+
+Here I discuss about the recent courses I've attended, projects I've done and the works completed during the academic time.
+
 #### MINI PROJECT
 **SOLAR MPPT AND CHARGE CONTROLLER USING ARDUINO**
 
