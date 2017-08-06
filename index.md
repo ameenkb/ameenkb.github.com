@@ -3,17 +3,12 @@
 ![test](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 ### CONTENTS
 
-- [**ABOUT ME**](https://ameenkb.github.io/#about-me)
-
-- [**RECENT WORKS**](https://ameenkb.github.io/#recent-works)
-
-  - [**FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
-  
-  - [**GALLERY**](https://ameenkb.github.io/#gallery)
-  
-- [**FOLLOW ME**](https://ameenkb.github.io/#follow-me)
-
-- [**CONTACT DETAILS**](https://ameenkb.github.io/#contact-details)
+[![About Me](https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678130-profile-alt-4-128.png)](https://ameenkb.github.io/#about-me)
+[![Recent Works](https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678120-calendar-clock-128.png)](https://ameenkb.github.io/#recent-works)
+[![FabLab Course](https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-128.png)](https://ameenkb.github.io/#fablab-course)
+[![Gallery](https://cdn4.iconfinder.com/data/icons/small-n-flat/24/image-128.png)](https://ameenkb.github.io/#gallery)
+[![Follow Me](https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678109-profile-group-128.png)](https://ameenkb.github.io/#follow-me)
+[![Contact Details](https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-id-128.png)](https://ameenkb.github.io/#contact-details)
 
 ## ABOUT ME
 A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
