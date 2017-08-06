@@ -233,6 +233,8 @@ GrabCAD evolved into a community for engineers to share CAD models and moved its
 
 - **CNC**
 
+![CNC](https://i.pinimg.com/originals/08/fd/88/08fd882dcd07b42ba686e7c25f5463aa.jpg)
+
 Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.[1] This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone.
 
 In modern CNC systems, the design of a mechanical part and its manufacturing program is highly automated. The part's mechanical dimensions are defined using computer-aided design (CAD) software, and then translated into manufacturing directives by computer-aided manufacturing (CAM) software. The resulting directives are transformed (by "post processor" software) into the specific commands necessary for a particular machine to produce the component, and then loaded into the CNC machine.
@@ -249,7 +251,17 @@ GitHub offers both plans for private and free repositories on the same account w
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
+- **ULTIMAKER**
+
+![Ultimaker](https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Ultimaker_logo.svg/1280px-Ultimaker_logo.svg.png)
+
+Ultimaker is a 3D printer manufacturer. Their product line includes the Ultimaker 3 family, Ultimaker 2 family and the Ultimaker Original. The company started out as an open-source printer company. Contrary to the RepRap project founded By Adrian Bowyer, Ultimaker is not focused on an end-goal of self-replication. Their product is designed to make high quality prints. Ultimaker sells the Ultimaker Original family as a DIY kit and the Ultimaker 2 family pre-assembled.
+
+Ultimaker's 3D printers currently print using acrylonitrile butadiene styrene (ABS) and polylactic acid (PLA). Ultimaker's printers also can print with other thermoplastics such as Nylon and Acrylic (PMMA), but this may be a little difficult.
+
 - **CURA**
+
+![Cura](https://www.goprint3d.co.uk/wp/wp-content/uploads/2016/07/Cura1.png)
 
 Cura is a 3D printer slicing application. It was created by David Braam; he was later employed by Ultimaker to maintain the software. Cura has been released under the open source Affero General Public License version 3. Development is hosted on GitHub. Cura is the preferred slicer software for Ultimaker 3D printers, but can be used with other printers as well.
 
