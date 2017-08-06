@@ -302,6 +302,8 @@ THE CLASSROOM/FABLAB
 > ![Class 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Lecture%2001.jpg)
 CLASS LEAD BY MR. MUHAMMED JASEEL
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 - **3D PRINTER**
 
 > ![3DP 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2004.jpg)
@@ -319,6 +321,8 @@ CONTROL PANEL OF THE 3D PRINTER
 
 > ![3DP 7](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Sculpture%2001.jpg)
 A FINISHED 3D PRINTED SCULPTURE
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 - **CNC MACHINES**
 
