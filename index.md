@@ -62,11 +62,13 @@ The term "3D printing" originally referred to a process that deposits a binder m
 
 ![3DP Furniture](https://www.tr3sdland.com/wp-content/uploads/2014/11/cube2.png)
 
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)
+
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ### COURSE PROGRESS
   
-  `02-08-2017`
+- `02-08-2017`
   
   Day 1: An Introduction
   
@@ -81,7 +83,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
   
   All assignments were completed on time.
   
-  `03-08-2017`
+- `03-08-2017`
   
   Day 2: Getting into GitHub and Introduction to 3D Printing
   
