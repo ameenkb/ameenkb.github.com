@@ -160,7 +160,7 @@ The term "3D printing" originally referred to a process that deposits a binder m
   
   The second day of the course was about getting along with GitHub and detailed page developement process. After the session, the class was split into two groups, after which we learnt in detail about 3D Printing. Both the mechanical and designing sides of 3D Printing was explained in detail by the supporting staff. 
   
-  Daily Asssignments:
+  Daily Assignments:
   - Develope a desccriptive page in GitHub
   - Upload the daily progress on the class
   - Install Cura Software
