@@ -266,7 +266,7 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
   
   - THE CLASSROOM/FABLAB
   
-  <img src="Images/Class 01.jpg" height="234" width="416"> <img src="Images/Class 03.jpg" height="234" width="416">
+  <img src="Images/Class 01.jpg" height="234" width="416">  <img src="Images/Class 03.jpg" height="234" width="416">
   
   - CLASS LEAD BY MR. MUHAMMED JASEEL
   
@@ -276,12 +276,12 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 
   - THE ULTIMAKER 3D PRINTER
 
-<img src="Images/3D Printer 04.jpg" height="234" width="416"> <img src="Images/3D Printer 01.jpg" height="234" width="416">
+<img src="Images/3D Printer 04.jpg"height="416" width="234">  <img src="Images/3D Printer 01.jpg" height="234" width="416">
 
 
   - CONTROL PANEL OF THE 3D PRINTER
 
-<img src="Images/3D Printer 03.jpg" height="416" width="234">
+<img src="Images/3D Printer 03.jpg" height="234" width="416"> 
 
   - 3D PRINTER IN ACTION
 
