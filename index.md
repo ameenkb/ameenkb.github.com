@@ -163,8 +163,10 @@ The term "3D printing" originally referred to a process that deposits a binder m
   Daily Asssignments:
   - Develope a desccriptive page in GitHub
   - Upload the daily progress on the class
+  - Install Cura Software
+  - Install any of the mentioned creative designing softwares: Autodesk AutoCAD/SketchUp/Rhinoceros 3D/Catia/CorelDraw/Eagle/SolidWorks
   
-  All assignments were completed on time.
+  All assignments were completed on time. Among the designing software list, Autodesk AutoCAD was chosen for installation.
   
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
   
