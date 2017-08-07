@@ -263,36 +263,43 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 ### GALLERY
 
 - **THE CLASS**
-
->![Class 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2001.jpg)
->![Class 2](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Class%2003.jpg)
-THE CLASSROOM/FABLAB
-
-> ![Class 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Lecture%2001.jpg)
-CLASS LEAD BY MR. MUHAMMED JASEEL
-
+  
+  - THE CLASSROOM/FABLAB
+  
+  <img src="Images/Class 01.jpg" height="234" width="416"> <img src="Images/Class 03.jpg" height="234" width="416">
+  
+  - CLASS LEAD BY MR. MUHAMMED JASEEL
+  
+  <img src="Images/Lecture 01.jpg" height="234" width="416">
+  
 - **3D PRINTER**
 
-> ![3DP 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2004.jpg)
-> ![3DP 2](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2001.jpg)
-THE ULTIMAKER 3D PRINTER
+  - THE ULTIMAKER 3D PRINTER
 
-> ![3DP 3](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printer%2003.jpg)
-CONTROL PANEL OF THE 3D PRINTER
+<img src="Images/3D Printer 04.jpg" height="234" width="416"> <img src="Images/3D Printer 01.jpg" height="234" width="416">
 
-> ![3DP 4](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/3D%20Printing%2001.jpg)
-3D PRINTER IN ACTION
 
-> ![3DP 6](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Designing%2001.jpg)
-3D PRINTER DESIGNER PANEL
+  - CONTROL PANEL OF THE 3D PRINTER
 
-> ![3DP 7](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Sculpture%2001.jpg)
-A FINISHED 3D PRINTED SCULPTURE
+<img src="Images/3D Printer 03.jpg" height="416" width="234">
+
+  - 3D PRINTER IN ACTION
+
+<img src="Images/3D Printing 01.jpg" height="234" width="416">
+
+  - 3D PRINTER DESIGNER PANEL
+
+<img src="Images/Designing 01.jpg" height="234" width="416">
+
+  - A FINISHED 3D PRINTED SCULPTURE
+  
+<img src="Images/Sculpture 01.jpg" height="234" width="416">
 
 - **CNC MACHINES**
 
->![CNC 1](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Laser%20Cutter%2001.jpg)
-A CNC LASER CUTTING MACHINE IN ACTION
+  - A CNC LASER CUTTING MACHINE IN ACTION
+  
+<img src="Images/Laser Cutter 01.jpg" height="234" width="416">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
 
