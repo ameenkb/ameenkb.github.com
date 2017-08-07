@@ -100,8 +100,6 @@ So it's always our upon us to make changes in this world. Be that change.
 
 Here I discuss about the recent courses I've attended, projects I've done and the works completed during the academic time.
 
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
-
 ### FABLAB COURSE
 #### SECTIONAL CONTENTS
 [![Intro](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/pencil-24.png)  **INTRODUCTION**](https://ameenkb.github.io/#introduction)
