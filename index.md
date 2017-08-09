@@ -6,7 +6,7 @@
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-## [CONTENTS](http://ameenkb.github.io/ok.md)
+## CONTENTS
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](https://ameenkb.github.io/#about-me)
 
@@ -166,7 +166,16 @@ The term "3D printing" originally referred to a process that deposits a binder m
   - Install Cura Software
   - Install any of the mentioned creative designing softwares: Autodesk AutoCAD/SketchUp/Rhinoceros 3D/Catia/CorelDraw/Eagle/SolidWorks
   
-  All assignments were completed on time. Among the designing software list, Autodesk AutoCAD was chosen for installation.
+  All assignments were completed on time. Among the designing software list, Autodesk AutoCAD and Rhinoceros 3D were chosen for installation.
+  
+- `08-08-2017`
+
+Day 3: Desiging basics
+
+On the third day, we learnt the basics about designing in Rhinoceros 3D and conversion of the design file to .stl format to print using the 3D printer. A brief explaination about the 3D printing was also given. After the session about the basics, the students were asked to design a simple 1cm x 1cm x 1cm block to be printed using the Ultimaker 2+ 3D Printer.
+
+Daily Assignments:
+  - Project: Ideate the design of any daily use product to be built using the 3D printer or any CNC machine
   
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
   
