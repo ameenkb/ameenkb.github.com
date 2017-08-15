@@ -321,7 +321,6 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
 
 [<img src="Images/3D Printer 04.jpg" height="256" width="192">](https://ameenkb.github.io/Images/3D Printer 04.jpg) [<img src="Images/3D Printer 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/3D Printer 01.jpg)
 
-
   - CONTROL PANEL OF THE 3D PRINTER
 
 [<img src="Images/3D Printer 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/3D Printer 03.jpg) 
@@ -338,11 +337,11 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
   
 [<img src="Images/Sculpture 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Sculpture 01.jpg)
 
- - BASIC PRINTED PROTOTYPE
+  - BASIC PRINTED PROTOTYPE
  
  [<img src="Images/Basic Prototype 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 1.jpg) [<img src="Images/Basic Prototype 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 2.jpg)
 
-- PROTOTYPE PRINTING
+ - PROTOTYPE PRINTING
 
 [<img src="Images/Prototype Printing 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 1.jpg) [<img src="Images/Prototype Printing 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 2.jpg)
 
@@ -353,7 +352,8 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
   [<img src="Images/CNC 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/CNC 1.jpg) [<img src="Images/CNC 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/CNC 2.jpg)
   
   - LASER CUTTING MACHINE
-  [<img src="Images/Laser Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Laser Cutting Machine.jpg)
+ 
+ [<img src="Images/Laser Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Laser Cutting Machine.jpg)
   
   - LASER CUTTING MACHINE IN ACTION
   
