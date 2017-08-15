@@ -205,7 +205,7 @@ The course proceeds according to the syllabus which is separately given by the l
   Daily Assignments:
   - Project: Ideate the design of any daily use product to be built using the 3D printer or any CNC machine
   
-  All assignments were completed on time. THe basic prototype designed and printed can be viewed here.
+  All assignments were completed on time. THe basic prototype designed and printed can be viewed [here](https://ameenkb.github.io/Images/Basic Prototype 1.jpg).
   
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
   
@@ -341,7 +341,7 @@ Rhinoceros is used in processes of computer-aided design (CAD), computer-aided m
  
   [<img src="Images/Basic Prototype 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 1.jpg) [<img src="Images/Basic Prototype 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Basic Prototype 2.jpg)
 
- - PROTOTYPE PRINTING
+  - PROTOTYPE PRINTING
 
   [<img src="Images/Prototype Printing 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 1.jpg) [<img src="Images/Prototype Printing 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 2.jpg)
 
