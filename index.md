@@ -8,7 +8,7 @@
 
 ## CONTENTS
 
-[![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](https://ameenkb.github.io/about.md)
+[![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](about.md)
 
 [![Abstract](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/document-24.png)  **ABSTRACT**](https://ameenkb.github.io/#academical-abstract)
 
