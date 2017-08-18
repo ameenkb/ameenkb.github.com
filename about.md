@@ -17,7 +17,7 @@ So it's always our upon us to make changes in this world. Be that change.
 - **EDUCATIONAL QUALIFICATION**
   - B. Tech in EEE from MESCE, Kuttipuram
   
-  Calicut Univesity
+  
   (CGPA: 7.13)
   - XIIth from IES Public School, Chittilappilly
   
