@@ -8,13 +8,13 @@
 
 ## CONTENTS
 
-- [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](about.md)
+- [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](aboutme)
 
-- [![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](course.md)
+- [![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](course)
 
-  - [![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](techinfo.md)
+  - [![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](techinfo)
 
-  - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](progress.md)
+  - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](progress)
 
 ![Transparent](http://cozcyt.gob.mx/labsol/page/img/index/vector.png)
 
