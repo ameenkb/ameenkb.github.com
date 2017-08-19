@@ -10,7 +10,11 @@
 
 [![About Me](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT ME**](about.md)
 
-[![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](https://ameenkb.github.io/#fablab-course)
+[![FabLab Course](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dev-24.png)  **FABLAB COURSE**](course.md)
+
+[![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](techinfo.md)
+
+[![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGREE**](progress.md)
 
 ![Transparent](http://cozcyt.gob.mx/labsol/page/img/index/vector.png)
 
