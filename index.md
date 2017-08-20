@@ -14,7 +14,7 @@
 
   - [![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](techinfo)
   
-  - [![Tutorial](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TUTORIAL**](tutorial)
+  - [![Tutorial](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **TUTORIAL**](tutorial)
 
   - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](progress)
 
