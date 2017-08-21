@@ -17,6 +17,10 @@
   - [![Tutorial](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **TUTORIAL**](tutorial)
 
   - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](progress)
+  
+  - [![ProjectS](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](project)
+  
+  - [![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/hotair-24.png)  **GALLERY**](gallery)
 
 ![Transparent](http://cozcyt.gob.mx/labsol/page/img/index/vector.png)
 
